@@ -2,7 +2,7 @@ Automate Let's Encrypt Certificate Installation for VestaCP
 ===========================================================
 
 VestaCP is an open-source web hosting control panel permits website owners to manage their sites through
-and easy to use web interface.  Vesta supports optional secure web hosting via HTTPS.
+an easy to use web interface.  Vesta supports optional secure web hosting via HTTPS.
 
 Let's Encrypt is a new certificate authority (CA) that issues free domain validated (DV) SSL/TLS
 certificates for enabling secure (HTTPS) web connections. Let's Encrypt automates the certificate request
